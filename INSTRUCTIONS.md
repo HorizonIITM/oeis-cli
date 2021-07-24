@@ -41,8 +41,12 @@ mini-project. So we will be conducting brute-force web-scraping, cleaning
 and presenting. For this, we need to observe the HTML structure of the OIES
 webpages - to identify which tags to extract for which information. Once the
 data is filtered, we can employ various tools/commands to clean filtered data,
+<<<<<<< HEAD
 which will make the data useful for us to proceed further. This observation
 is done using "Inspect Element" option of various browsers.
+=======
+which will make the data useful for us to proceed further.
+>>>>>>> 799d5028a25d6daea857c4eb30bbd9fc49c81bd2
 
 ## Phase 3 - Making script
 
